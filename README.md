@@ -26,25 +26,21 @@ The contract includes three functions that showcase the use of the mentioned sta
 
 MIT License
 
-## Authors
+## Author/s
 
-* (Replace with your name(s) and contact information)
+* Danz Andrew M. Permejo (61903256@ntc.edu.ph)
 
-## Getting Started (Consider adding this section if applicable)
+## Getting Started 
 
 This section would typically explain how to deploy the contract to a blockchain network and interact with its functions, but it might not be necessary for a purely educational contract like this one.  
 
-If you decide to include this section, consider the following structure:
 
-* **Deployment:** (Explain how to deploy the contract)
 * **Interaction:**
     * Provide step-by-step instructions on how to interact with each function, including any required inputs or expected outputs.
     * Use code blocks to demonstrate commands.
 
-## Help (Consider adding this section if applicable)
+## Help 
 
 This section could provide guidance on troubleshooting common issues or using the contract effectively. 
 
-* Consider including commands to run the program if it provides helper information.
-
-Feel free to customize this template further to best suit your project's needs!   
+  
